@@ -1,0 +1,5 @@
+//Mindset- how the things
+//What things you learned from this
+
+
+ //Deploy in Firebase(Google) Add project - project name - code icon - nick name - project setting - congig
