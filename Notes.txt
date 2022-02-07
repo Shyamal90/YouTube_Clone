@@ -3,3 +3,21 @@
 
 
  //Deploy in Firebase(Google) Add project - project name - code icon - nick name - project setting - congig
+
+ //first rule for css - 
+ margin:0 
+
+
+ 1.Outline - header sidebar  main-section
+ **header(stick to the top)
+
+ //it has three components
+
+ //Material-ui icon- material-ui.com-> install -> 
+
+ npm istall @material-ui/core
+ npm install @mui/icons-material
+
+ then go to -  search the full list of these icons.
+
+ 
